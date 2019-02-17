@@ -1,5 +1,6 @@
 import algo.Algorithm;
 import file.FileManager;
+import finder.Finder;
 
 public class App {
     public static void main(String[] args) {
@@ -41,5 +42,6 @@ public class App {
                 "Integer efficitur dolor et augue aliquam, volutpat lobortis libero mollis. Vestibulum posuere nisl ac aliquet ornare. Vivamus felis magna, fringilla eget odio vel, laoreet scelerisque est. In bibendum turpis vel pharetra malesuada. Proin sit amet leo quis velit porttitor fermentum. In enim dolor, commodo vitae mi a, rhoncus dictum justo. Nullam accumsan arcu nec metus malesuada luctus.");
         FileManager.createFile("data/output/identical/result.txt");
         FileManager.writeFile("data/output/identical/result.txt", Algorithm.getSimilarityRate(FileManager.readFile("data/identical/doc-1.txt"), FileManager.readFile("data/identical/doc-2.txt")));
+        Finder.makeQuery("data/database","cell phone");
     }
 }

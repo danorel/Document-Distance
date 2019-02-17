@@ -1,0 +1,5 @@
+The adjusted orbit will position it to operate as a vital communications link between the rover and Earth. The repositioning, which will be accomplished by carefully exploiting the faint resistance afforded by Mars’ upper atmosphere, will take several months to complete.
+
+“It’s like using your cell phone,” says Bruce Jakosky from University of Colorado, Boulder, US, and MAVEN’s principal investigator. “The closer you are to a cell tower, the stronger your signal.”
+
+Currently, the spacecraft completes 5.3 orbits every Earth day. In its new position, that number will rise to 6.8 – meaning it can receive and transmit data to and from the rover more often.
